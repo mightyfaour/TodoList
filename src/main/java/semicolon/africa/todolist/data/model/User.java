@@ -1,4 +1,4 @@
-package semicolon.africa.todolist.Data.model;
+package semicolon.africa.todolist.data.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -7,7 +7,6 @@ import lombok.Setter;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import javax.persistence.Id;
-import javax.persistence.Table;
 
 @AllArgsConstructor
 @NoArgsConstructor

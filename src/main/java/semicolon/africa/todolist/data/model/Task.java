@@ -1,4 +1,4 @@
-package semicolon.africa.todolist.Data.model;
+package semicolon.africa.todolist.data.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
