@@ -5,7 +5,7 @@ import semicolon.africa.todolist.ui.model.request.UserDetailsRequestModel;
 
 @RestController
 @RequestMapping("/users")//http://localhost:8080/users
-public class UserController {
+public class UserController{
 
     @GetMapping("/getUsers")
     public String getUser(){
