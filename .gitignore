@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/home/philip_neo/Documents/TodoList/TodoList/src/main/resources/application.properties

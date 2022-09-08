@@ -13,7 +13,7 @@ import javax.persistence.Id;
 @NoArgsConstructor
 @Getter
 @Setter
-public class Task {
+public class Task{
     @Id
     private Long id;
     private String name;

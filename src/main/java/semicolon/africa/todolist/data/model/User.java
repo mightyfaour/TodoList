@@ -13,7 +13,7 @@ import javax.persistence.Id;
 @Document
 @Setter
 @Getter
-public class User {
+public class User{
     @Id
     private String id;
     private String firstName;
